@@ -17,4 +17,7 @@ Mas, será que uma rede neural consegue prever números aleatórios?
 
 ## Implementação 
 
-Usando os dados da mega sena, vamos treinar uma rede neural para prever a chance de 6 dezenas serem sorteadas.
+Usando os dados da mega sena de 1996 a 2018, vamos treinar uma rede neural para prever a chance de 6 dezenas serem sorteadas.
+
+
+Veja o resultado clicando [aqui](https://github.com/roscibely/mega-sena/blob/main/model.ipynb) 
